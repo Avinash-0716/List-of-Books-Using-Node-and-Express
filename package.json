@@ -1,0 +1,16 @@
+{
+  "name": "task-3(books_list_using_restapi)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+
+  },
+  "keywords": [],
+  "author": "Avinash",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
